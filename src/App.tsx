@@ -28,7 +28,7 @@ function App() {
       <div className="App">
         <Routes>
        
-             <Route path = "/km-engmed1" element = {<VeryNew />} /> 
+             <Route path = "/engmedflex" element = {<VeryNew />} /> 
           
 
           <Route path = "/view" element = {<Visits />} />
